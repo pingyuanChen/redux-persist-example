@@ -20,6 +20,6 @@ npm start
 Open Chrome DevTools -> Application -> IndexedDB, you will see all your app states was be stored in storage(IndexedDB):![db](https://github.com/pingyuanChen/redux-persist-example/blob/master/db.png)
 
 Then, open the DevTools Console, you will see how to restore your local storage to app state
-[console](https://github.com/pingyuanChen/redux-persist-example/blob/master/console.png)
+![console](https://github.com/pingyuanChen/redux-persist-example/blob/master/console.png)
 
 ## Advanced Usage
