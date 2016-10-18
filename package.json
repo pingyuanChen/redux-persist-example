@@ -2,6 +2,11 @@
   "name": "redux-persist-example",
   "version": "1.0.0",
   "description": "Redux Persist Todos example",
+  "keywords": [
+    "redux-persist",
+    "redux-persist example",
+    "redux"
+  ],
   "scripts": {
     "start": "babel-node server.js"
   },
@@ -9,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/pingyuanChen/redux-persist-example"
   },
-  "license": "MIT",
+  "license": "UNLICENSED",
   "dependencies": {
     "localforage": "^1.4.3",
     "node-uuid": "^1.4.7",
