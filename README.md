@@ -23,3 +23,6 @@ Then, open the DevTools Console, you will see how to restore your local storage 
 ![console](https://github.com/pingyuanChen/redux-persist-example/blob/master/console.png)
 
 ## Advanced Usage
+### Custom handle REHYDRATE action in reducer
+
+## Pitfalls
